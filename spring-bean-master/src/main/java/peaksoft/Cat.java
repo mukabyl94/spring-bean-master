@@ -1,7 +1,7 @@
 package peaksoft;
 
 import org.springframework.context.annotation.Scope;
-@Scope("prototype")
+
 public class Cat {
    private String name;
 
